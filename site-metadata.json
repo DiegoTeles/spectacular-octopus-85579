@@ -70,7 +70,7 @@
                 "label": "Youtube",
                 "url": "https://dev.to/telles",
                 "style": "icon",
-                "icon_class": "fa-you",
+                "icon_class": "fa-youtube",
                 "new_window": true
             }
         ]
