@@ -31,5 +31,6 @@ sections:
         url: blog/index.html
         style: button
         new_window: true
+        no_follow: true
 template: advanced
 ---
