@@ -19,7 +19,7 @@ sections:
       Flutter Nation e NodeRED Brasil.
 
     actions:
-      - label: Contact Me
+      - label: Call me baby
         url: /contact
         style: button
   - section_id: recent-posts
