@@ -30,7 +30,7 @@ sections:
       - label: ver Blog
         url: blog/index.html
         style: button
-        new_window: true
+        new_window: false
         no_follow: false
 template: advanced
 ---
